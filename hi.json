@@ -1,0 +1,60 @@
+{
+  "app title": "एचआरएमएस सिस्टम",
+  "login": "लॉगिन",
+  "logout": "लॉगआउट",
+  "username": "यूजरनेम",
+  "password": "पासवर्ड",
+  "login error": "अमान्य यूजरनेम या पासवर्ड",
+  "welcome message": "एचआरएमएस सिस्टम में आपका स्वागत है",
+  
+  "dashboard": "डैशबोर्ड",
+  "attendance": "उपस्थिति",
+  "leave requests": "छुट्टी अनुरोध",
+  "employee directory": "कर्मचारी निर्देशिका",
+  "profile": "मेरा प्रोफ़ाइल",
+  "settings": "सेटिंग्स",
+
+  "mark attendance": "उपस्थिति दर्ज करें",
+  "attendance success": "उपस्थिति सफलतापूर्वक दर्ज की गई",
+  "attendance failed": "उपस्थिति दर्ज करने में विफल",
+
+  "apply leave": "छुट्टी के लिए आवेदन करें",
+  "leave type": "छुट्टी प्रकार",
+  "start date": "प्रारंभ तिथि",
+  "end date": "समाप्ति तिथि",
+  "reason": "कारण",
+  "submit leave request": "छुट्टी अनुरोध सबमिट करें",
+  "leave request success": "छुट्टी अनुरोध सफलतापूर्वक सबमिट किया गया",
+
+  "employee list": "कर्मचारी सूची",
+  "employee name": "नाम",
+  "employee email": "ईमेल",
+  "employee position": "पद",
+  "employee department": "विभाग",
+
+  "profile info": "प्रोफ़ाइल जानकारी",
+  "edit profile": "प्रोफ़ाइल संपादित करें",
+  "save changes": "परिवर्तन सहेजें",
+  "profile updated": "प्रोफ़ाइल सफलतापूर्वक अपडेट की गई",
+
+  "settings language": "एप्लिकेशन भाषा",
+  "select language": "भाषा चुनें",
+  
+  "error network": "नेटवर्क त्रुटि। कृपया बाद में पुनः प्रयास करें।",
+  "error unknown": "कुछ गलत हो गया।",
+
+  "button ok": "ठीक है",
+  "button cancel": "रद्द करें",
+
+  "app": "ऐप",
+  "title": "शीर्षक",
+  "user": "उपयोगकर्ता",
+  "name": "नाम",
+  "email": "ईमेल",
+  "position": "पद",
+  "department": "विभाग",
+  "type": "प्रकार",
+  "date": "तारीख",
+  "reason": "कारण",
+  "changes": "परिवर्तन"
+}
