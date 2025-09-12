@@ -57,11 +57,11 @@
   "date": "तारीख",
   "reason": "कारण",
   "changes": "परिवर्तन",
-   "ccToRequired": "CC To निवडणे आवश्यक आहे.",
-  "attachmentRequired": "कृपया अटॅचमेंट निवडा.",
-  "rejectReasonRequired": "कृपया नाकारण्याचे कारण निवडा.",
-  "commentRequiredForRejectReasonOther": "नाकारण्याचे कारण OTHER साठी टिप्पणी आवश्यक आहे.",
-  "commentRequiredForOther": "कारण OTHER साठी टिप्पणी आवश्यक आहे.",
-  "reasonRequired": "कारण आवश्यक आहे.",
-  "reasonFieldRequired": "कारण आवश्यक आहे."
+   "ccToRequired": "CC To का चयन आवश्यक है।",
+  "attachmentRequired": "कृपया अटैचमेंट चुनें।",
+  "rejectReasonRequired": "कृपया अस्वीकार करने का कारण चुनें।",
+  "commentRequiredForRejectReasonOther": "अस्वीकार कारण OTHER के लिए टिप्पणी आवश्यक है।",
+  "commentRequiredForOther": "कारण OTHER के लिए टिप्पणी आवश्यक है।",
+  "reasonRequired": "कारण आवश्यक है।",
+  "reasonFieldRequired": "कारण आवश्यक है।",
 }
