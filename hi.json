@@ -63,5 +63,5 @@
   "commentRequiredForRejectReasonOther": "अस्वीकार कारण OTHER के लिए टिप्पणी आवश्यक है।",
   "commentRequiredForOther": "कारण OTHER के लिए टिप्पणी आवश्यक है।",
   "reasonRequired": "कारण आवश्यक है।",
-  "reasonFieldRequired": "कारण आवश्यक है।",
+  "reasonFieldRequired": "कारण आवश्यक है।"
 }
