@@ -56,5 +56,12 @@
   "type": "प्रकार",
   "date": "तारीख",
   "reason": "कारण",
-  "changes": "परिवर्तन"
+  "changes": "परिवर्तन",
+   "ccToRequired": "CC To निवडणे आवश्यक आहे.",
+  "attachmentRequired": "कृपया अटॅचमेंट निवडा.",
+  "rejectReasonRequired": "कृपया नाकारण्याचे कारण निवडा.",
+  "commentRequiredForRejectReasonOther": "नाकारण्याचे कारण OTHER साठी टिप्पणी आवश्यक आहे.",
+  "commentRequiredForOther": "कारण OTHER साठी टिप्पणी आवश्यक आहे.",
+  "reasonRequired": "कारण आवश्यक आहे.",
+  "reasonFieldRequired": "कारण आवश्यक आहे."
 }
