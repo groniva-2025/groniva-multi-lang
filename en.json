@@ -91,8 +91,7 @@
   "button": "Button",
   "ok": "OK",
   "cancel": "Cancel",
-
-   "ccToRequired": "Select CC To is required",
+  "ccToRequired": "Select CC To is required",
   "attachmentRequired": "Please select attachment.",
   "rejectReasonRequired": "Please select reject reason.",
   "commentRequiredForRejectReasonOther": "Comment is required for reject reason OTHER.",
@@ -103,6 +102,6 @@
   "from_time_required": "From Time is required",
   "in_date_required": "In Date is required",
   "out_date_required": "Out Date is required",
-  "to_time_required": "To Time is required",
+  "to_time_required": "To Time is required"
 }
 
